@@ -1,6 +1,6 @@
   <header>
     <h1>100 Days of Code Challenge</h1>
-    <h3>Hello, I am <Strong> Prakunj Vishwakarma  </Strong> and I Welcome you to the 100 Days of Code Challenge!.</h3>
+    <h3>Hello, I am  Prakunj Vishwakarma and I Welcome you to the 100 Days of Code Challenge!.</h3>
     <p> This repository is dedicated to helping you build a coding habit, improve your skills, and make consistent progress in your coding journey over the next 100 days.</p>
   </header>
   
