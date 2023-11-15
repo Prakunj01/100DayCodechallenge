@@ -1,0 +1,18 @@
+🚀 Day 14 of the 100-Day Coding Challenge 👨‍💻
+
+📅15-11-2023📅
+
+Hello Folks, 🙋‍♂️ 
+
+I've successfully completed Day 14 of the 100-Day Coding! Today, The Problem is findMaxConsecutiveOnes. I have start the Striver DSA sheet this question is from Array Easy questions. I invite you to join me on this exciting journey!.
+
+Leetcode : https://leetcode.com/Prakunj01/
+Github code : https://github.com/Prakunj01/100DayCode.git 
+
+I'll be dedicating myself to solving a coding questions every day. #PassionToContribute
+
++ You can join with me by comment below or DM to me.
++ Let's dive into the world of coding and become better developers together! 💻📈
++ Tag me if you like to Start with me. Prakunj Vishwakarma
+
+#100DayCodingChallenge #CodingChallenge #SoftwareEngineering #StriversSheet #takeUforward #ContinuousLearning #PassionToContribute
