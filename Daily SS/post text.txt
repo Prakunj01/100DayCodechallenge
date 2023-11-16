@@ -1,13 +1,13 @@
-🚀 Day 14 of the 100-Day Coding Challenge 👨‍💻
+🚀 Day 15 of the 100-Day Coding Challenge 👨‍💻
 
-📅15-11-2023📅
+📅16-11-2023📅
 
 Hello Folks, 🙋‍♂️ 
 
-I've successfully completed Day 14 of the 100-Day Coding! Today, The Problem is findMaxConsecutiveOnes. I have start the Striver DSA sheet this question is from Array Easy questions. I invite you to join me on this exciting journey!.
+I've successfully completed Day 15 of the 100-Day Coding! Today, The Problem is 2SUM. I have start the Striver DSA sheet this question is from Array Easy questions. I invite you to join me on this exciting journey!.
 
 Leetcode : https://leetcode.com/Prakunj01/
-Github code : https://github.com/Prakunj01/100DayCode.git 
+Github code : https://github.com/Prakunj01/100DayCodechallenge.git
 
 I'll be dedicating myself to solving a coding questions every day. #PassionToContribute
 
