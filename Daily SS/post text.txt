@@ -1,10 +1,10 @@
-🚀 Day 16 of the 100-Day Coding Challenge 👨‍💻
+🚀 Day 17 of the 100-Day Coding Challenge 👨‍💻
 
-📅17-11-2023📅
+📅16-11-2023📅
 
 Hello Everyone, 🙋‍♂️ 
 
-I've successfully completed Day 16 of the 100-Day Coding! Today, The Problem is Sort an array of 0s, 1s and 2s. I have start the Striver DSA sheet this question is from Array Easy questions. I invite you to join me on this exciting journey!.
+I've successfully completed Day 17 of the 100-Day Coding! Today, The Problem is majorityElement. I invite you to join me on this exciting journey!.
 
 Leetcode : https://leetcode.com/Prakunj01/
 Github code : https://github.com/Prakunj01/100DayCodechallenge.git
