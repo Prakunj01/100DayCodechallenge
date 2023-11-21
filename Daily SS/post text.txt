@@ -1,10 +1,10 @@
-🚀 Day 19 of the 100-Day Coding Challenge 👨‍💻
+🚀 Day 20 of the 100-Day Coding Challenge 👨‍💻
 
-📅20-11-2023📅
+📅21-11-2023📅
 
 Hello Everyone, 🙋‍♂️ 
 
-I've successfully completed Day 19 of the 100-Day Coding! Today, The Problem is Stock Buy And Sell. I invite you to join me on this exciting journey!.
+I've successfully completed Day 20 of the 100-Day Coding! Today, The Problem is Next Permutation. I invite you to join me on this exciting journey!.
 
 Leetcode : https://leetcode.com/Prakunj01/
 Github code : https://github.com/Prakunj01/100DayCodechallenge.git
