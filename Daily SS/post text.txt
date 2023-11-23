@@ -1,9 +1,9 @@
-🚀 Day 21 of the 100-Day Coding Challenge 👨‍💻
-📅22-11-2023📅
+🚀 Day 22 of the 100-Day Coding Challenge 👨‍💻
+📅23-11-2023📅
 
 Hello Everyone, 🙋‍♂️ 
 
-I've successfully completed Day 21 of the 100-Day Coding! Today, The Problem is longestConsecutive. I invite you to join me on this exciting journey!.
+I've successfully completed Day 22 of the 100-Day Coding! Today, The Problem is longestConsecutive. I invite you to join me on this exciting journey!.
 
 Leetcode : https://leetcode.com/Prakunj01/
 Github code : https://github.com/Prakunj01/100DayCodechallenge.git
