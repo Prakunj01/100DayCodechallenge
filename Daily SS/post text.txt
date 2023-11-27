@@ -1,9 +1,9 @@
-🚀 Day 25 of the 100-Day Coding Challenge 👨‍💻
-📅26-11-2023📅
+🚀 Day 26 of the 100-Day Coding Challenge 👨‍💻
+📅27-11-2023📅
 
 Hello Everyone, 🙋‍♂️ 
 
-I've successfully completed Day 25 of the 100-Day Coding! Today, The Problem is find All Subarrays With Given Sum. I invite you to join me on this exciting journey!.
+I've successfully completed Day 26 of the 100-Day Coding! Today, The Problem is Pascal’s triangle. I invite you to join me on this exciting journey!.
 
 Leetcode : https://leetcode.com/Prakunj01/
 Github code : https://github.com/Prakunj01/100DayCodechallenge.git
