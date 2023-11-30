@@ -1,9 +1,9 @@
-🚀 Day 28 of the 100-Day Coding Challenge 👨‍💻
-📅29-11-2023📅
+🚀 Day 29 of the 100-Day Coding Challenge 👨‍💻
+📅30-11-2023📅
 
-Hello Everyone, 🙋‍♂️ 
+Hello LinkedIn Community, 🙋‍♂️ 
 
-I've successfully completed Day 28 of the 100-Day Coding! Today, The Problem is binarySearch. I invite you to join me on this exciting journey!.
+I've successfully completed Day 29 of the 100-Day Coding! Today, The Problem is Search Insert Position. I invite you to join me on this exciting journey!.
 
 Leetcode : https://leetcode.com/Prakunj01/
 Github code : https://github.com/Prakunj01/100DayCodechallenge.git
