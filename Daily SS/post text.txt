@@ -1,9 +1,8 @@
-🚀 Day 32 of the 100-Day Coding Challenge 👨‍💻
-📅04-12-2023📅
+🚀 Day 34 of the 100-Day Coding Challenge 👨‍💻
 
 Hello LinkedIn Community, 🙋‍♂️ 
 
-The Problem is Search Element in a Rotated Sorted Array II. I invite you to join me on this exciting journey!.
+The Problem is single Non Duplicate. I invite you to join me on this exciting journey!.
 
 Leetcode : https://leetcode.com/Prakunj01/
 Github code : https://github.com/Prakunj01/100DayCodechallenge.git
