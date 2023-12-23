@@ -1,8 +1,8 @@
-🚀 Day 40 of the 100-Day Coding Challenge 👨‍💻
+🚀 Day 41 of the 100-Day Coding Challenge 👨‍💻
 
 Hello LinkedIn Community, 🙋‍♂️ 
 
-The Problem is Reverse Words in a String.
+The Problem is Check if two Strings are anagrams of each other.
 
 Leetcode : https://leetcode.com/Prakunj01/
 Github code : https://github.com/Prakunj01/100DayCodechallenge.git
